@@ -1,5 +1,5 @@
 {
-    "name": "Deep Links - Compatibility Mode - Show Tuning Process",
+    "name": "Example Deep Links - Compatibility Mode - Show Tuning Process",
     "author": "ADBTuner",
     "version": "1.0.4",
     "description": "Load content via deep link URLs (where supported) and starts the stream immediately (doesn't attempt to hide the tuning process). Adds workarounds to help support apps that don't behave as expected. This should only be used if the default doesn't work correctly.",

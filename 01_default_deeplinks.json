@@ -1,5 +1,5 @@
 {
-    "name": "Deep Links (default, recommended)",
+    "name": "Example Deep Links (default, recommended)",
     "author": "ADBTuner",
     "version": "1.0.6",
     "description": "Load content via deep link URLs (where supported). Recommended for most content.",

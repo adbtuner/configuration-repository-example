@@ -1,5 +1,5 @@
 {
-    "name": "Deep Links - Compatibility Mode",
+    "name": "Example Deep Links - Compatibility Mode",
     "author": "ADBTuner",
     "version": "1.0.6",
     "description": "Load content via deep link URLs (where supported). Adds workarounds to help support apps that don't behave as expected. This should only be used if the default doesn't work correctly.",
