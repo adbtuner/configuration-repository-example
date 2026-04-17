@@ -3,7 +3,7 @@
     "author": "ADBTuner",
     "version": "1.0.6",
     "description": "Load content via deep link URLs (where supported). Recommended for most content.",
-    "uuid": "8ec77d65-30d6-46a3-8045-282571cff8d8",
+    "uuid": "903f34e7-a390-4d88-a3e7-5574d9c56ff6",
     "global_options": {
         "wait_for_video_playback_detection": true,
         "use_fixed_delay": false,

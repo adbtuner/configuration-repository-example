@@ -3,7 +3,7 @@
     "author": "ADBTuner",
     "version": "1.0.6",
     "description": "Load content via deep link URLs (where supported). Adds workarounds to help support apps that don't behave as expected. This should only be used if the default doesn't work correctly.",
-    "uuid": "bb353259-17e0-4b38-a328-8629fb1ec2ca",
+    "uuid": "ce4d98ce-e0af-45ad-b07d-80b234af673c",
     "global_options": {
         "wait_for_video_playback_detection": true,
         "use_fixed_delay": false,

@@ -3,7 +3,7 @@
     "author": "ADBTuner",
     "version": "1.0.4",
     "description": "Load content via deep link URLs (where supported) and starts the stream immediately (doesn't attempt to hide the tuning process). Adds workarounds to help support apps that don't behave as expected. This should only be used if the default doesn't work correctly.",
-    "uuid": "c513c18d-19bd-47f0-9bff-4baba2a8c4cd",
+    "uuid": "e002c6b1-db1f-4e44-88f0-e2ceaed194d5",
     "global_options": {
         "wait_for_video_playback_detection": false,
         "use_fixed_delay": true,
