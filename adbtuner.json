@@ -1,7 +1,7 @@
 {
     "name": "ADBTuner Example Configurations",
     "author": "turtletank99",
-    "website": "https://github.com/turtletank99/adbtuner-configuration-repository-example",
+    "website": "https://github.com/adbtuner/configuration-repository-example",
     "description": "An example of how an ADBTuner configuration repository can be structured.\nThis repository is not intended to be used as-is, but rather as a reference for how to structure your own ADBTuner configuration repository.",
     "directories": [
         "configurations"
